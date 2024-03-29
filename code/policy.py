@@ -39,7 +39,8 @@ class BasePolicy:
         observations = np2torch(observations)
         #######################################################
         #########   YOUR CODE HERE - 1-3 lines.    ############
-
+        action_distribution = self.action_distribution(observations)
+        sampled_actions = action_distribution.sample().cpu().numpy()
         #######################################################
         #########          END YOUR CODE.          ############
         return sampled_actions
@@ -62,7 +63,9 @@ class CategoricalPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 1-2 lines.    ############
-
+        self.network = self.network.to('cuda')
+        logits = self.network(observations.to('cuda'))
+        distribution = torch.distributions.Categorical(logits=logits)
         #######################################################
         #########          END YOUR CODE.          ############
         return distribution
@@ -80,7 +83,7 @@ class GaussianPolicy(BasePolicy, nn.Module):
         self.network = network
         #######################################################
         #########   YOUR CODE HERE - 1 line.       ############
-
+        self.log_std = nn.Parameter(torch.zeros(action_dim))
         #######################################################
         #########          END YOUR CODE.          ############
 
@@ -94,7 +97,7 @@ class GaussianPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 1 line.       ############
-
+        std = torch.exp(self.log_std)
         #######################################################
         #########          END YOUR CODE.          ############
         return std
@@ -118,7 +121,10 @@ class GaussianPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 2-4 lines.    ############
-
+        mean = self.network(observations)
+        std = self.std()
+        normal_distribution = torch.distributions.Normal(mean, std)
+        distribution = torch.distributions.Independent(normal_distribution, 1)
         #######################################################
         #########          END YOUR CODE.          ############
         return distribution

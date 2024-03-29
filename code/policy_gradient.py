@@ -69,7 +69,15 @@ class PolicyGradient(object):
         """
         #######################################################
         #########   YOUR CODE HERE - 8-12 lines.   ############
-
+        # 1
+        self.network = build_mlp(self.observation_dim, self.action_dim, self.config.n_layers, self.config.layer_size)
+        # 2
+        if self.discrete:
+            self.policy = CategoricalPolicy(self.network)
+        else:
+            self.policy = GaussianPolicy(self.network)
+        # 3
+        self.optimizer = torch.optim.Adam(self.policy.parameters(), lr=self.lr)
         #######################################################
         #########          END YOUR CODE.          ############
 
@@ -185,7 +193,11 @@ class PolicyGradient(object):
             rewards = path["reward"]
             #######################################################
             #########   YOUR CODE HERE - 5-10 lines.   ############
-
+            returns = []
+            G_t = 0
+            for r in reversed(rewards):
+                G_t = r + self.config.gamma * G_t
+                returns.insert(0, G_t)
             #######################################################
             #########          END YOUR CODE.          ############
             all_returns.append(returns)
@@ -210,7 +222,7 @@ class PolicyGradient(object):
         """
         #######################################################
         #########   YOUR CODE HERE - 1-2 lines.    ############
-
+        normalized_advantages = (advantages - np.mean(advantages)) / np.std(advantages)
         #######################################################
         #########          END YOUR CODE.          ############
         return normalized_advantages

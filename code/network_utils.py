@@ -26,7 +26,15 @@ def build_mlp(
     """
     #######################################################
     #########   YOUR CODE HERE - 7-15 lines.   ############
-
+    layers = []
+    layers.append(nn.Linear(input_size, size))
+    layers.append(nn.ReLU())
+    for _ in range(n_layers):
+        layers.append(nn.Linear(size, size))
+        layers.append(nn.ReLU())
+    layers.append(nn.Linear(size, output_size))
+    model = nn.Sequential(*layers)
+    return model
     #######################################################
     #########          END YOUR CODE.          ############
 
