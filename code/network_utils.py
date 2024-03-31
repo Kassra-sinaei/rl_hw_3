@@ -29,7 +29,7 @@ def build_mlp(
     layers = []
     layers.append(nn.Linear(input_size, size))
     layers.append(nn.ReLU())
-    for _ in range(n_layers):
+    for _ in range(n_layers -1):
         layers.append(nn.Linear(size, size))
         layers.append(nn.ReLU())
     layers.append(nn.Linear(size, output_size))

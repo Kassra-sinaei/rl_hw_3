@@ -123,8 +123,11 @@ class GaussianPolicy(BasePolicy, nn.Module):
         #########   YOUR CODE HERE - 2-4 lines.    ############
         mean = self.network(observations)
         std = self.std()
+        # Option (b)
         normal_distribution = torch.distributions.Normal(mean, std)
         distribution = torch.distributions.Independent(normal_distribution, 1)
+        # Option (a)
+        # distribution = ptd.MultivariateNormal(loc=mean, scale_tril=torch.diag(std))
         #######################################################
         #########          END YOUR CODE.          ############
         return distribution
