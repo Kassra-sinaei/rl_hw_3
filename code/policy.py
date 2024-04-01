@@ -4,6 +4,7 @@ import torch.distributions as ptd
 
 from network_utils import np2torch, device
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 class BasePolicy:
     def action_distribution(self, observations):
@@ -63,8 +64,8 @@ class CategoricalPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 1-2 lines.    ############
-        self.network = self.network.to('cuda')
-        logits = self.network(observations.to('cuda'))
+        self.network = self.network.to(device)
+        logits = self.network(observations.to(device))
         distribution = torch.distributions.Categorical(logits=logits)
         #######################################################
         #########          END YOUR CODE.          ############

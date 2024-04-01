@@ -4,6 +4,8 @@ import torch.nn as nn
 from network_utils import build_mlp, device, np2torch
 
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
 class BaselineNetwork(nn.Module):
     """
     Class for implementing Baseline network
@@ -26,7 +28,7 @@ class BaselineNetwork(nn.Module):
         #########   YOUR CODE HERE - 2-8 lines.   #############
         input_size = env.observation_space.shape[0]
         output_size = 1  # For baseline network, output is a single value
-        self.network = build_mlp(input_size, output_size, self.config.n_layers, self.config.layer_size).to('cuda')
+        self.network = build_mlp(input_size, output_size, self.config.n_layers, self.config.layer_size).to(device)
         self.optimizer = torch.optim.Adam(self.network.parameters(), lr=self.lr)
         #######################################################
         #########          END YOUR CODE.          ############

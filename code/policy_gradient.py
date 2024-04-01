@@ -75,7 +75,7 @@ class PolicyGradient(object):
         if self.discrete:
             self.policy = CategoricalPolicy(self.network)
         else:
-            self.policy = GaussianPolicy(self.network)
+            self.policy = GaussianPolicy(self.network, self.action_dim)
         # 3
         self.optimizer = torch.optim.Adam(self.policy.parameters(), lr=self.lr)
         #######################################################
