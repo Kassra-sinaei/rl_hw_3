@@ -1,0 +1,314 @@
+2024-04-01 21:25:23,983:INFO: Average reward: 6.68 +/- 0.09
+2024-04-01 21:25:26,536:INFO: Average reward: 9.55 +/- 0.18
+2024-04-01 21:25:29,014:INFO: Average reward: 13.60 +/- 0.32
+2024-04-01 21:25:31,419:INFO: Average reward: 21.64 +/- 0.61
+2024-04-01 21:25:33,795:INFO: Average reward: 28.72 +/- 0.86
+2024-04-01 21:25:36,147:INFO: Average reward: 35.26 +/- 0.99
+2024-04-01 21:25:38,491:INFO: Average reward: 43.68 +/- 1.30
+2024-04-01 21:25:40,830:INFO: Average reward: 42.96 +/- 1.21
+2024-04-01 21:25:43,173:INFO: Average reward: 50.85 +/- 1.39
+2024-04-01 21:25:45,500:INFO: Average reward: 58.93 +/- 1.94
+2024-04-01 21:25:47,827:INFO: Average reward: 65.14 +/- 2.24
+2024-04-01 21:25:50,147:INFO: Average reward: 75.11 +/- 2.67
+2024-04-01 21:25:52,465:INFO: Average reward: 82.47 +/- 3.20
+2024-04-01 21:25:54,781:INFO: Average reward: 90.14 +/- 3.54
+2024-04-01 21:25:57,091:INFO: Average reward: 115.83 +/- 6.02
+2024-04-01 21:25:59,395:INFO: Average reward: 187.55 +/- 13.21
+2024-04-01 21:26:01,699:INFO: Average reward: 233.76 +/- 21.70
+2024-04-01 21:26:04,007:INFO: Average reward: 266.95 +/- 14.60
+2024-04-01 21:26:06,313:INFO: Average reward: 221.76 +/- 11.56
+2024-04-01 21:26:08,624:INFO: Average reward: 202.53 +/- 9.05
+2024-04-01 21:26:10,925:INFO: Average reward: 242.41 +/- 13.05
+2024-04-01 21:26:13,236:INFO: Average reward: 248.40 +/- 16.47
+2024-04-01 21:26:15,562:INFO: Average reward: 282.37 +/- 15.51
+2024-04-01 21:26:17,902:INFO: Average reward: 377.92 +/- 32.99
+2024-04-01 21:26:20,222:INFO: Average reward: 433.55 +/- 28.79
+2024-04-01 21:26:22,613:INFO: Average reward: 618.12 +/- 56.42
+2024-04-01 21:26:24,948:INFO: Average reward: 693.14 +/- 45.18
+2024-04-01 21:26:27,267:INFO: Average reward: 869.18 +/- 85.16
+2024-04-01 21:26:29,598:INFO: Average reward: 728.08 +/- 85.87
+2024-04-01 21:26:31,895:INFO: Average reward: 542.41 +/- 74.47
+2024-04-01 21:26:34,213:INFO: Average reward: 412.52 +/- 59.50
+2024-04-01 21:26:36,536:INFO: Average reward: 403.79 +/- 60.69
+2024-04-01 21:26:38,857:INFO: Average reward: 344.03 +/- 49.11
+2024-04-01 21:26:41,174:INFO: Average reward: 810.50 +/- 64.04
+2024-04-01 21:26:43,514:INFO: Average reward: 940.50 +/- 46.12
+2024-04-01 21:26:45,831:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:26:48,140:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:26:50,439:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:26:52,754:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:26:55,065:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:26:57,382:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:26:59,712:INFO: Average reward: 447.95 +/- 33.38
+2024-04-01 21:27:02,021:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:04,331:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:06,640:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:08,961:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:11,277:INFO: Average reward: 582.18 +/- 69.19
+2024-04-01 21:27:13,590:INFO: Average reward: 972.00 +/- 26.56
+2024-04-01 21:27:15,908:INFO: Average reward: 937.40 +/- 59.39
+2024-04-01 21:27:18,238:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:20,544:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:22,848:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:25,183:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:27,496:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:29,810:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:32,125:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:34,427:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:36,729:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:39,056:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:41,362:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:43,692:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:46,025:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:48,336:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:50,639:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:52,941:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:55,241:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:57,577:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:27:59,907:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:02,221:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:04,535:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:06,857:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:09,157:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:11,451:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:13,777:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:16,071:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:18,394:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:20,707:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:23,025:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:25,358:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:27,678:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:29,968:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:32,258:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:34,569:INFO: Average reward: 999.10 +/- 0.85
+2024-04-01 21:28:36,868:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:39,163:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:41,479:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:43,781:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:46,081:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:48,377:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:28:50,671:INFO: Average reward: 893.55 +/- 74.46
+2024-04-01 21:28:52,960:INFO: Average reward: 835.64 +/- 88.90
+2024-04-01 21:28:55,263:INFO: Average reward: 829.50 +/- 88.70
+2024-04-01 21:28:57,575:INFO: Average reward: 877.82 +/- 87.15
+2024-04-01 21:28:59,874:INFO: Average reward: 884.55 +/- 68.15
+2024-04-01 21:29:02,172:INFO: Average reward: 788.58 +/- 105.17
+2024-04-01 21:29:04,467:INFO: Average reward: 812.92 +/- 104.31
+2024-04-01 21:29:06,770:INFO: Average reward: 607.69 +/- 99.50
+2024-04-01 21:29:09,064:INFO: Average reward: 914.50 +/- 58.92
+2024-04-01 21:29:11,366:INFO: Average reward: 900.18 +/- 55.70
+2024-04-01 21:29:13,668:INFO: Average reward: 1000.00 +/- 0.00
+2024-04-01 21:29:13,668:INFO: - Training done.
+2024-04-01 21:29:13,670:DEBUG: Loaded backend agg version unknown.
+2024-04-01 21:29:13,671:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0.
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,672:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,673:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS_Bold.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Bold.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/couri.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/arialbi.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/ariali.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Bold_Italic.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/times.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New_Bold_Italic.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana_Bold_Italic.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Bold_Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,674:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia_Italic.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebuc.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdanab.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New_Bold.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgiaz.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/timesbd.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/comic.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana_Bold.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Italic.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia_Bold_Italic.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/timesi.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/timesbi.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana_Italic.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New_Italic.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,675:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgiab.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Black.ttf', name='Arial Black', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdanai.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebucbd.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia_Bold.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Andale_Mono.ttf', name='Andale Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebucbi.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/courbi.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/ariblk.ttf', name='Arial Black', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS_Bold_Italic.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS_Italic.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/courbd.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/arialbd.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+2024-04-01 21:29:13,676:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgiai.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/cour.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/andalemo.ttf', name='Andale Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/comicbd.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Comic_Sans_MS.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Bold.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Comic_Sans_MS_Bold.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdanaz.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+2024-04-01 21:29:13,677:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebucit.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,677:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2024-04-01 21:29:13,701:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0.
+2024-04-01 21:29:13,702:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2024-04-01 21:29:13,702:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,702:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 1.05
+2024-04-01 21:29:13,702:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,702:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf', name='cmb10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,703:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,703:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,703:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,703:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,703:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,704:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf', name='STIXGeneral', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,704:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf', name='STIXNonUnicode', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,704:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf', name='cmsy10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,704:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf', name='STIXGeneral', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,704:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf', name='STIXGeneral', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf', name='cmmi10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf', name='DejaVu Sans', style='oblique', variant='normal', weight=700, stretch='normal', size='scalable')) = 1.335
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf', name='DejaVu Sans Mono', style='oblique', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,705:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf', name='cmex10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,706:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf', name='cmtt10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,706:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf', name='STIXSizeThreeSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,706:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf', name='DejaVu Serif', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,706:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2024-04-01 21:29:13,706:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,707:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf', name='cmss10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,707:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf', name='cmr10', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,707:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf', name='STIXNonUnicode', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,707:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf', name='STIXGeneral', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,708:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,708:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf', name='STIXSizeFourSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,708:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf', name='STIXSizeTwoSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,709:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf', name='DejaVu Sans Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,709:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf', name='STIXSizeOneSym', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,709:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf', name='DejaVu Serif Display', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,709:DEBUG: findfont: score(FontEntry(fname='/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf', name='STIXSizeFiveSym', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,710:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS_Bold.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,710:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,710:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Bold.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,710:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/couri.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,711:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/arialbi.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+2024-04-01 21:29:13,711:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/ariali.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+2024-04-01 21:29:13,711:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+2024-04-01 21:29:13,711:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Bold_Italic.ttf', name='Arial', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 7.698636363636363
+2024-04-01 21:29:13,712:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/times.ttf', name='Times New Roman', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,712:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New_Bold_Italic.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,712:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana_Bold_Italic.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Bold_Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia_Italic.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebuc.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdanab.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New_Bold.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,713:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgiaz.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/timesbd.ttf', name='Times New Roman', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/comic.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana_Bold.ttf', name='Verdana', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 3.9713636363636367
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Italic.ttf', name='Arial', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 7.413636363636363
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia_Bold_Italic.ttf', name='Georgia', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,714:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgia.ttf', name='Georgia', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/timesi.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/timesbi.ttf', name='Times New Roman', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana_Italic.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 0.05
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/impact.ttf', name='Impact', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,715:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New_Italic.ttf', name='Courier New', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,716:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgiab.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,716:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,716:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Black.ttf', name='Arial Black', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,716:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdanai.ttf', name='Verdana', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 4.6863636363636365
+2024-04-01 21:29:13,716:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf', name='DejaVu Serif', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,717:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+2024-04-01 21:29:13,717:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebucbd.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,717:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Georgia_Bold.ttf', name='Georgia', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,717:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Andale_Mono.ttf', name='Andale Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,717:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebucbi.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/courbi.ttf', name='Courier New', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/ariblk.ttf', name='Arial Black', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Courier_New.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS_Bold_Italic.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 11.335
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS_Italic.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Times_New_Roman_Italic.ttf', name='Times New Roman', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/courbd.ttf', name='Courier New', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,718:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial.ttf', name='Arial', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 6.413636363636363
+2024-04-01 21:29:13,719:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/arialbd.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+2024-04-01 21:29:13,719:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/georgiai.ttf', name='Georgia', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,719:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', name='DejaVu Sans', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 0.33499999999999996
+2024-04-01 21:29:13,719:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/webdings.ttf', name='Webdings', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,719:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/cour.ttf', name='Courier New', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,719:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/andalemo.ttf', name='Andale Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/comicbd.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Comic_Sans_MS.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Arial_Bold.ttf', name='Arial', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 6.698636363636363
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf', name='DejaVu Sans Mono', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Trebuchet_MS.ttf', name='Trebuchet MS', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 10.05
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Comic_Sans_MS_Bold.ttf', name='Comic Sans MS', style='normal', variant='normal', weight=700, stretch='normal', size='scalable')) = 10.335
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/verdanaz.ttf', name='Verdana', style='italic', variant='normal', weight=700, stretch='normal', size='scalable')) = 4.971363636363637
+2024-04-01 21:29:13,720:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/Verdana.ttf', name='Verdana', style='normal', variant='normal', weight=400, stretch='normal', size='scalable')) = 3.6863636363636365
+2024-04-01 21:29:13,721:DEBUG: findfont: score(FontEntry(fname='/usr/share/fonts/truetype/msttcorefonts/trebucit.ttf', name='Trebuchet MS', style='italic', variant='normal', weight=400, stretch='normal', size='scalable')) = 11.05
+2024-04-01 21:29:13,721:DEBUG: findfont: Matching sans\-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=12.0 to DejaVu Sans ('/usr/local/lib/python3.8/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
