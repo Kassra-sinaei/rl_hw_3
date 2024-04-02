@@ -4,7 +4,6 @@ import torch.distributions as ptd
 
 from network_utils import np2torch, device
 
-device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 class BasePolicy:
     def action_distribution(self, observations):
@@ -122,8 +121,9 @@ class GaussianPolicy(BasePolicy, nn.Module):
         """
         #######################################################
         #########   YOUR CODE HERE - 2-4 lines.    ############
+        self.network = self.network.to(device)
         mean = self.network(observations)
-        std = self.std()
+        std = self.std().to(device)
         # Option (b)
         normal_distribution = torch.distributions.Normal(mean, std)
         distribution = torch.distributions.Independent(normal_distribution, 1)
